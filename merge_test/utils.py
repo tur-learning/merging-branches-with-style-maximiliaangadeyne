@@ -9,7 +9,7 @@ def multiply(a, b):
     return res 
 
 def sqrt(a):
-    res = math.sqrt(a)
+    res = math.sqrt(a):
     return result 
 
 # print("You are into utils.py")
